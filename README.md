@@ -1,5 +1,10 @@
 # pymongo-api
 
+## Архитектура проекта: UML Diagram
+
+Ссылка на схему draw.io:
+https://drive.google.com/file/d/1UpBfIegAGNLfWtz4R_41OtnBV3v5Ij_V/view?usp=drive_link
+
 ## Как запустить
 
 Запускаем mongodb и приложение
